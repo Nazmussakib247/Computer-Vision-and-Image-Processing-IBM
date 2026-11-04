@@ -57,6 +57,8 @@ Module 2/
 - Install dependencies from `requirements.txt` rather than installing
   packages inside a notebook.
 - Run notebook cells in order because later examples reuse earlier variables.
+- Every push and pull request runs an automated check for valid notebooks and
+  required image assets.
 
 ## Notes
 
